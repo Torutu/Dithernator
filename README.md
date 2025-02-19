@@ -20,7 +20,7 @@ This program was created for a friend who enjoys experimenting with image proces
 
 ## How It Works
 
-1. **Input**: The program reads an input image file (JPEG format).
+1. **Input**: The program reads an input image file `.jpg .jpeg .png .bmp`.
 2. **Dithering Process**: It applies a dithering algorithm (based on pixel error diffusion) to the image to simulate a higher color depth.
 3. **Output**: The processed image is saved with the prefix `Dithered_` followed by the original image filename, resulting in a new file in the same directory.
 
