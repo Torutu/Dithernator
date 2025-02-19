@@ -1,6 +1,8 @@
 # Dithernator
 
 **Dithernator** is a C++ program designed to apply a dithering effect to images. Dithering is a technique used in digital graphics to create the illusion of color depth and smooth gradients by using patterns of contrasting pixels. This program lets you process images and apply a dithering effect, generating a new output file with the prefix "Dithered_".
+![image](https://github.com/user-attachments/assets/0c7d3da7-a16b-4fa5-8427-29041ca8e188)
+
 
 ### Purpose
 
